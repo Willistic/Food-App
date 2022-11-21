@@ -32,7 +32,7 @@ function Popular() {
              <Wrapper>
                 <h3>Non-Vegetarian Recipes</h3>
                 <Splide options={{
-                    perPage: 4,
+                    perPage: 3,
                     arrows: true,
                     pagination: false,
                     drag: 'free',
