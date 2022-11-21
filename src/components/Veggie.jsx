@@ -31,7 +31,7 @@ function Veggie() {
              <Wrapper>
                 <h3>Vegetarian Recipes</h3>
                 <Splide options={{
-                    perPage: 3,
+                    perPage: 4,
                     arrows: true,
                     pagination: false,
                     drag: 'free',
